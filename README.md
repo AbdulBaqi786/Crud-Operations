@@ -1,2 +1,2 @@
 # Crud-Operations
-I have made these CRUD operation using C#
+I have made these CRUD operations using C#
